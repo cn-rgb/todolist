@@ -33,6 +33,9 @@ body{
 	height:50px;
 	padding:0 20px;
 	border-radius:5px 5px 0 0;
+        font-family: 'Brush Script MT', cursive;
+
+
 }
 .button .text{ /*to-do list felirat*/
 	font-size:25px;
@@ -61,6 +64,8 @@ body{
 	outline:none;
 	background:none;
 	border:2px solid grey;
+font-family: 'Brush Script MT', cursive;
+
 }
 .field .add-btn{
 	position:absolute;
@@ -78,6 +83,9 @@ body{
 	list-style:none;
 	margin:0;
 	/*overflow:hidden;*/
+font-family: 'Brush Script MT', cursive;
+color: red;
+
 }
 ul li{
   height: 45px;
